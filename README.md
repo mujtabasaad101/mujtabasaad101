@@ -1,93 +1,135 @@
-![Mujtaba Saad — Software Development | AI | Electronics](assets/profile-banner.svg)
+<!-- Profile README for github.com/mujtabasaad101 -->
 
-# Hi, I'm Mujtaba Saad 👋
+<div align="center">
 
-**Computer Science Student | Web Developer | AI Enthusiast | Electronics Hobbyist**
+<img src="assets/profile-banner.svg" alt="Mujtaba Saad — Software, AI and Electronics" width="100%" />
 
-I'm passionate about building technology that connects software, intelligence, and hardware. I enjoy developing modern web experiences, exploring AI-powered solutions, automating workflows, and experimenting with electronics and circuit design.
+### Computer Science Student · Web Developer · AI Enthusiast · Electronics Hobbyist
 
-### 🚀 About Me
+*I enjoy building at the intersection of software, intelligent systems, and hardware.*
 
-- 🎓 Computer Science student with a passion for technology.
-- 💻 Building modern, responsive web applications and digital experiences.
-- 🤖 Exploring AI agents, intelligent systems, and workflow automation.
-- ⚡ Interested in electronics, circuit design, and practical hardware projects.
-- 🔌 Learning about electronic components, power supplies, sensors, and circuit troubleshooting.
-- 🎨 Focused on clean UI, product design, and user experience.
-- 🌍 Based in Pakistan.
+[![GitHub](https://img.shields.io/badge/GitHub-mujtabasaad101-181717?style=for-the-badge&logo=github)](https://github.com/mujtabasaad101)
+[![Location](https://img.shields.io/badge/Location-Pakistan-16825d?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Pakistan/)
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 👋 About Me
 
-### 01 — Nexora Digital
-A digital agency website showcasing services in web development, AI agents, and business automation.
+I'm **Mujtaba Saad**, a Computer Science student from Pakistan who likes exploring technology from both sides of the screen and the circuit board.
 
-🔗 **[Visit Live Website](https://nexora-sand-one.vercel.app/)**
+- 💻 Building modern websites and digital products.
+- 🤖 Exploring AI agents, intelligent applications, and workflow automation.
+- ⚡ Experimenting with electronics, circuit design, and hardware concepts.
+- 🎨 Interested in clean interfaces, thoughtful product design, and user experience.
+- 🧩 I enjoy learning by building, testing, and figuring out how things work.
 
-### 02 — SAM Enterprizes
-A premium eastern-wear storefront featuring a luxury editorial aesthetic and modern shopping experience.
+## 🧭 My Three Areas of Interest
 
-🔗 **[Visit Live Website](https://sam-enterprizes-pied.vercel.app/#/)**
-
-### 03 — Mujtaba Portfolio
-My personal portfolio website, showcasing my work, skills, and digital projects.
-
-🔗 **[Visit Live Website](https://mujtaba-portfolio-live.vercel.app/)**
-
-### 04 — Ghar Kharch
-An Android app concept designed to simplify household expense tracking and monthly budgeting.
-
-🔗 **[View GitHub Repository](https://github.com/mujtabasaad101/App1)**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="assets/software-development.svg" alt="Software development illustration" width="100%" />
+        <b>Software Development</b><br/>
+        <sub>Web experiences · Applications · UI/UX</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/artificial-intelligence.svg" alt="Artificial intelligence illustration" width="100%" />
+        <b>Artificial Intelligence</b><br/>
+        <sub>AI agents · Automation · Intelligent tools</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/electronics-hardware.svg" alt="Electronics and hardware illustration" width="100%" />
+        <b>Electronics &amp; Hardware</b><br/>
+        <sub>Circuit design · Components · Experiments</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🧠 Areas of Interest
+## 🚀 Featured Projects
 
-| Field | Interests |
-|---|---|
-| Web Development | Modern websites, frontend development, responsive UI |
-| Artificial Intelligence | AI agents, intelligent systems, automation |
-| Software Development | Programming, application development, problem-solving |
-| Electronics | Circuit design, electronic components, power supplies |
-| Hardware | Sensors, practical electronics, circuit troubleshooting |
-| UI/UX Design | Clean interfaces, visual design, user experience |
+### 01. Nexora Digital
+A digital agency concept focused on web development, AI agents, and business automation.
+
+[![Live Website](https://img.shields.io/badge/Explore-Live%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora-sand-one.vercel.app/)
+
+### 02. SAM Enterprizes
+A premium eastern-wear storefront with a luxury editorial visual direction and a modern shopping experience.
+
+[![Live Website](https://img.shields.io/badge/Explore-Live%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://sam-enterprizes-pied.vercel.app/#/)
+
+### 03. Mujtaba Portfolio
+My personal portfolio website, bringing together my profile, interests, and selected work.
+
+[![Live Website](https://img.shields.io/badge/Explore-Live%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://mujtaba-portfolio-live.vercel.app/)
+
+### 04. Ghar Kharch
+An Android app concept for tracking household expenses and managing monthly budgets.
+
+[![GitHub Repository](https://img.shields.io/badge/View-Source%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/mujtabasaad101/App1)
+
+> The first three links point to live deployments. Their source repositories will be linked here once each deployment is matched to its correct GitHub repository.
 
 ---
 
 ## ⚡ Electronics & Hardware
 
-Beyond software, I enjoy exploring the physical side of technology.
+My interest in technology isn't limited to software. I also enjoy understanding the components and circuits that make physical devices work.
 
-Some of the areas I'm interested in:
+**Topics I'm exploring:**
+- Analog electronics and basic circuit design.
+- Adjustable dual DC power supplies.
+- Voltage regulation with **LM317** and **LM337**.
+- Rectifiers, filters, diodes, and capacitors.
+- Sensors, electronic components, and circuit troubleshooting.
 
-- Electronic circuit design and experimentation.
-- Adjustable DC power supply circuits.
-- Voltage regulators (LM317, LM337).
-- Sensors and electronic components.
-- Understanding how hardware systems work.
-- Building and troubleshooting practical electronics projects.
+I’m interested in turning theory into working, hands-on projects and documenting what I learn along the way.
 
-I believe understanding both software and hardware opens up exciting possibilities for building useful technology.
+## 🛠️ Technologies & Learning Areas
+
+<div align="center">
+
+**Software & Web**
+
+![Web](https://img.shields.io/badge/Web_Development-1f6feb?style=flat-square)
+![Programming](https://img.shields.io/badge/Programming-6f42c1?style=flat-square)
+![UI%2FUX](https://img.shields.io/badge/UI%2FUX-0e8a8a?style=flat-square)
+
+**AI & Automation**
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-7c3aed?style=flat-square)
+![Automation](https://img.shields.io/badge/Workflow_Automation-2563eb?style=flat-square)
+
+**Electronics**
+
+![Circuit Design](https://img.shields.io/badge/Circuit_Design-16825d?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware_Experimentation-16825d?style=flat-square)
+![Components](https://img.shields.io/badge/Electronic_Components-16825d?style=flat-square)
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mujtabasaad101&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabasaad101&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mujtabasaad101&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-## 🛠️ What I'm Exploring
+## 🤝 Connect
 
-- Modern web development.
-- AI-powered applications and multi-agent systems.
-- Workflow automation and intelligent tools.
-- Electronics and hardware experimentation.
-- Building practical digital products.
-- Better software architecture and UI/UX.
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-@mujtabasaad101-181717?style=for-the-badge&logo=github)](https://github.com/mujtabasaad101)
 
-## 🤝 Let's Connect
+**Always learning. Always building. Always curious.**
 
-- **GitHub:** [@mujtabasaad101](https://github.com/mujtabasaad101)
-
----
-
-*Building, experimenting, learning, and turning ideas into reality — one project at a time.*
-
+</div>
