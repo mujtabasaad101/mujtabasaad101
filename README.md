@@ -6,7 +6,7 @@
 
 ### COMPUTER SCIENCE STUDENT  ·  WEB DEVELOPER  ·  AI ENTHUSIAST  ·  ELECTRONICS HOBBYIST
 
-*Curious about how technology works — from the code on a screen to the circuits behind a device.*
+*Curious about how technology works — from software and AI to microcontrollers, embedded systems, and real-world circuits.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mujtabasaad101-181717?style=for-the-badge&logo=github)](https://github.com/mujtabasaad101)
 [![Based in Pakistan](https://img.shields.io/badge/Based%20in-Pakistan-16825d?style=for-the-badge)](https://www.google.com/maps/place/Pakistan/)
@@ -21,7 +21,7 @@ I'm **Mujtaba Saad**, a Computer Science student based in Pakistan. I enjoy crea
 
 - 💻 Developing modern websites and digital products.
 - 🤖 Exploring AI agents, intelligent systems, and workflow automation.
-- ⚡ Learning electronics, circuit design, components, and hardware fundamentals.
+- ⚡ Exploring electronics, ESP32, Arduino, microcontrollers, and embedded systems.
 - 🎨 Interested in clean UI, thoughtful design, and useful user experiences.
 - 🧠 I learn best by building, testing, troubleshooting, and improving.
 
@@ -43,7 +43,7 @@ I'm **Mujtaba Saad**, a Computer Science student based in Pakistan. I enjoy crea
 <td width="33%" align="center" valign="top">
 <img src="assets/electronics-hardware.svg" width="100%" alt="Electronics and hardware illustration"/>
 <strong>ELECTRONICS</strong><br/>
-<sub>Circuit design · Components · Hardware</sub>
+<sub>ESP32 · Arduino · Circuits · Embedded systems</sub>
 </td>
 </tr>
 </table>
@@ -160,7 +160,9 @@ Software isn't the only side of technology that interests me. I also enjoy under
 - Adjustable dual DC power supplies.
 - Voltage regulators such as **LM317** and **LM337**.
 - Bridge rectifiers, diodes, capacitors, and filtering.
-- Sensors, electronic components, and circuit troubleshooting.
+- ESP32 and Arduino boards, GPIO, and microcontroller fundamentals.
+- Embedded systems, basic IoT concepts, and sensor interfacing.
+- Breadboard prototyping, wiring, and practical circuit troubleshooting.
 
 I'm interested in taking concepts from diagrams to practical working circuits, documenting what I learn along the way.
 
@@ -171,7 +173,8 @@ I'm interested in taking concepts from diagrams to practical working circuits, d
 | **Web & Software** | Modern websites, application development, responsive UI |
 | **AI & Automation** | AI agents, intelligent workflows, multi-agent concepts |
 | **Design** | UI/UX, visual hierarchy, product-focused interfaces |
-| **Electronics** | Circuit design, power supplies, components, sensors |
+| **Electronics** | Circuit design, power supplies, ESP32, Arduino, sensors |
+| **Embedded Systems** | Microcontrollers, GPIO, sensor interfacing, basic IoT |
 | **Hardware** | Practical experiments, testing, and troubleshooting |
 
 ## 📊 GitHub at a glance
